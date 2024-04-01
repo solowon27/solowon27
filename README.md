@@ -32,7 +32,8 @@ an Ethio-American Airman serving the United States Air Force ✈️, and a full-
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Mustache](https://img.shields.io/badge/-Mustache-724D46?style=for-the-badge&logo=mustache&logoColor=white)
-
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MVC](https://img.shields.io/badge/-MVC-666666?style=for-the-badge&logo=.net&logoColor=white)
 
 🚀 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=solowon27&show_icons=true&theme=dark&hide=none)
