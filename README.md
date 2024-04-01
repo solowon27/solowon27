@@ -1,21 +1,17 @@
-### Hi there 👋
-
-**solowon27/solowon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there, I'm Solomon Tegegne! 👋
 
-I am an Airman serving the United States Air Force ✈️, and a full-stack web developer based in the US!
+I am Ethio-American Airman serving the United States Air Force ✈️, and I am a full-stack web developer based in the US!
 
-- 🔭 I’m currently working on ultimate Job Searching web App, and Business Tinder App
-- 🌱 I’m currently learning Machine Language and TypeScript
-- 👯 I’m looking to collaborate on Deep Machine learning
-- 💬 Ask me about React and tailwind CSS
+- 🔭 I’m currently working on the ultimate Job Searching web App and Business Tinder App
+- 🌱 I’m currently learning Machine Learning and TypeScript
+- 👯 I’m looking to collaborate on Deep Machine Learning projects
+- 💬 Ask me about React and Tailwind CSS
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a good luck charm for anyone who rides with me, except myself!
 
 🌐 Connect with me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-tegegne-7b347027a/)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/blk_wyt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-tegegne-7b347027a/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/blk_wyt)
 
 💻 Technologies & Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,7 +31,5 @@ I am an Airman serving the United States Air Force ✈️, and a full-stack web 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Mustache](https://img.shields.io/badge/-Mustache-724D46?style=for-the-badge&logo=mustache&logoColor=white)
 
-
 🚀 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=solowon27&show_icons=true&theme=dark&hide=none)
-
