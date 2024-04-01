@@ -3,9 +3,10 @@
 **solowon27/solowon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi there, I'm Solomon Tegegne! 👋
-I am an Air man serving the United States Airforce and A full stack web developer based in US!
 
-- 🔭 I’m currently working on ultimate Job Searching web App for Ethiopian People
+I am an Airman serving the United States Air Force ✈️, and a full-stack web developer based in the US!
+
+- 🔭 I’m currently working on ultimate Job Searching web App, and Business Tinder App
 - 🌱 I’m currently learning Machine Language and TypeScript
 - 👯 I’m looking to collaborate on Deep Machine learning
 - 💬 Ask me about React and tailwind CSS
