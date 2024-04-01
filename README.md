@@ -1,4 +1,4 @@
-# Hi there, I'm Solomon Tegegne! 👋
+# Hi there, I'm Solomon Tegegne! (Solo) 👋
 
 an Ethio-American Airman serving the United States Air Force ✈️, and a full-stack web developer based in the US!
 
@@ -7,7 +7,7 @@ an Ethio-American Airman serving the United States Air Force ✈️, and a full-
 - 👯 I’m looking to collaborate on Deep Machine Learning projects
 - 💬 Ask me about React and Tailwind CSS
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a good luck charm for anyone who rides with me, except myself!
+- ⚡ Fun fact: I am a good luck charm for anyone who rides with me, except myself! 🍀😂
 
 # 🌐 Connect with me:
 
