@@ -1,6 +1,6 @@
-# Hi there, I'm Solomon Tegegne! (Solo) 👋
+# Hi there, I'm A1C Solomon Tegegne! (Solo) 👋
 
-an Ethio-American Airman serving the United States Air Force ✈️, and a full-stack web developer based in the US!
+an Ethio-American Airman serving proudly the United States Air Force ✈️, and a full-stack web developer based in the US!
 
 - 🔭 I’m currently working on the ultimate Job Searching web App and Business Tinder App
 - 🌱 I’m currently learning Machine Learning, TypeScript, Angular and Vue
