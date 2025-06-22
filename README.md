@@ -2,12 +2,12 @@
 
 an Ethio-American Airman serving proudly the United States Air Force ✈️, and a full-stack web developer based in the US!
 
-- 🔭 I’m currently working on the ultimate Job Searching web App and Business Tinder App
+- 🔭 I’m currently working on the ultimate Job Searching web App, Business Tinder App, kids and parents based App and many more
 - 🌱 I’m currently learning Machine Learning, TypeScript, Angular and Vue
 - 👯 I’m looking to collaborate on Deep Machine Learning projects
-- 💬 Ask me about React and Tailwind CSS
+- 💬 Ask me about React, Next js and Tailwind CSS, Apollo Server, MongoDB
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a good luck charm for anyone who rides with me, except myself! 🍀😂
+- ⚡ my fact:  at the end of the day everyone has one thing to regret!
 
 # 🌐 Connect with me:
 
