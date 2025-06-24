@@ -7,7 +7,7 @@ an Ethio-American Airman serving proudly the United States Air Force ✈️, and
 - 👯 I’m looking to collaborate on Deep Machine Learning projects
 - 💬 Ask me about React, Next js and Tailwind CSS, Apollo Server, MongoDB
 - 😄 Pronouns: he/him
-- ⚡ my fact:  at the end of the day everyone has one thing to regret!
+- ⚡ my fact: No matter what እግዜብሄር ይመስገን!
 
 # 🌐 Connect with me:
 
