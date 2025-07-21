@@ -1,4 +1,4 @@
-# Hi there, I'm A1C Solomon Tegegne! (Solo) 👋
+# Hi there, I'm Solomon! (Solo) 👋
 
 an Ethio-American Airman serving proudly the United States Air Force ✈️, and a full-stack web developer based in the US!
 
